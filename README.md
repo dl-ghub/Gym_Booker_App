@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dl-ghub/gym_booker">
-    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
+    <img src="images/boxing_glove.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Gym Booker Script</h3>
@@ -42,7 +42,7 @@
     <a href="https://github.com/dl-ghub/gym_booker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dl-ghub/gym_booker">View Demo</a>
+    <a href="https://github.com/dl-ghub/gym_booker">Web App Link (Not Implemented)</a>
     ·
     <a href="https://github.com/dl-ghub/gym_booker/issues">Report Bug</a>
     ·
@@ -85,7 +85,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Such a hassle booking a gym slot at a specific time? This script will do it for you.
+Having a hard time booking a gym slot at a specific time? This script will do it for you.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Convert to a web app.
+- [ ] Create web app to serve as front-end interface.
+- [ ] Allow ability to schedule classes that aren't available for booking yet, and book them when they become available.
 - [ ] Allow ability to change gym location.
     - [ ] Add a map?
 
@@ -177,7 +178,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - dylanrainuileon@gmail.com
+Author: Dylan Leon - dylanrainuileon@gmail.com
 
 Project Link: [https://github.com/dl-ghub/gym_booker](https://github.com/dl-ghub/gym_booker)
 
@@ -193,7 +194,7 @@ Project Link: [https://github.com/dl-ghub/gym_booker](https://github.com/dl-ghub
 [stars-url]: https://github.com/dl-ghub/gym_booker/stargazers
 [issues-shield]: https://img.shields.io/github/issues/dl-ghub/gym_booker.svg?style=for-the-badge
 [issues-url]: https://github.com/dl-ghub/gym_booker/issues
-[license-shield]: https://img.shields.io/github/license/dl-ghub/gym_booker.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
 [license-url]: https://github.com/dl-ghub/gym_booker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/dylanrleon
